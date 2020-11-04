@@ -10,3 +10,12 @@ This is created as part of INSAID sample demo project
 ![enter image description here](https://github.com/patnamashok/hr-employee-attrition/blob/main/hr-analytics-10.jpg?raw=true)
 
 To check out my notebook please click [here](https://github.com/patnamashok/hr-employee-attrition/blob/main/HR_Analytics.ipynb)
+
+
+---hi
+---what
+- item1
+1 first
+|col1|  col2|
+|apple|1|
+| mango |  10|
